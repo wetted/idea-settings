@@ -1,9 +1,4 @@
 <application>
-  <component name="GithubAccounts">
-    <account id="b286c3cb-74a4-43e3-973f-a8e695af1406" name="wetted@ociweb.com">
-      <server host="github.com" />
-    </account>
-  </component>
   <component name="GithubSettings">
     <option name="LOGIN" value="wetted@ociweb.com" />
     <option name="AUTH_TYPE" value="BASIC" />
