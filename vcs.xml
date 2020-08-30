@@ -34,9 +34,13 @@
           <option name="url" value="git@github.com:micronaut-guides/micronaut-scheduled.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/micronaut-guides/micronaut-http-client.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/projects/micronaut" />
+    <option name="cloneParentDir" value="$USER_HOME$/projects/Micronaut-class" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
