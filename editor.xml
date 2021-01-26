@@ -6,7 +6,7 @@
     <EXCLUDED_PACKAGE NAME="org.junit.Test" />
   </component>
   <component name="DefaultFont">
-    <option name="FONT_SIZE" value="15" />
+    <option name="FONT_SIZE" value="16" />
     <option name="FONT_FAMILY" value="Source Code Pro" />
   </component>
   <component name="EditorSettings">
